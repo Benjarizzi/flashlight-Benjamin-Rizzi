@@ -1,23 +1,16 @@
-import logo from './logo.svg';
 import './App.css';
+import {Footer} from "./Footer"
+import {Main} from "./Home"
+import {Navbar} from "./Navbar" //Importamos del archivo .jsx, si tuviesemos más de un export lo ponemos con "," dentro de {}
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+
+function App() { 
+ 
+  return (                    //Llamamos a los componentes con la etiqueta </>
+    <div className="App"> 
+      <Navbar /> 
+      <Main />
+      <Footer />
     </div>
   );
 }
