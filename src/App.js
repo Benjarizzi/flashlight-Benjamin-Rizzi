@@ -1,7 +1,7 @@
 import './App.css';
-import {Footer} from "./Footer"
-import {Main} from "./Home"
-import {Navbar} from "./Navbar" //Importamos del archivo .jsx, si tuviesemos más de un export lo ponemos con "," dentro de {}
+import {Footer} from "./componentes/Footer"
+import {Main} from "./componentes/Home"
+import {Navbar} from "./componentes/Navbar" //Importamos del archivo .jsx, si tuviesemos más de un export lo ponemos con "," dentro de {}
 
 
 function App() { 
@@ -9,10 +9,8 @@ function App() {
   return (                    //Llamamos a los componentes con la etiqueta </>
     <div className="App"> 
       <Navbar /> 
-      <Main />
-      <Footer />
     </div>
   );
 }
-
+//Le pasamos propiedades de objeto al componente y lo llamamos en el archivo .jsx con {props}
 export default App;
