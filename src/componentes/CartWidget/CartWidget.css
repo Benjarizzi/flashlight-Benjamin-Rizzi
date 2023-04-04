@@ -1,0 +1,13 @@
+
+.contenedor-carrito-numero{
+    color: rgb(120, 7, 182) ;
+    display: flex;
+    justify-content: end;
+    font-size: 1.5rem;
+    align-items: center;
+    text-align: center;
+    margin-right: 1rem;
+}
+.contenedor-carrito-numero i,p{
+    cursor: pointer;
+}

@@ -1,7 +1,7 @@
 import { Box, Button, Grid, Link, Menu, MenuItem, Fade } from "@mui/material";
-import ShoppingCartCheckoutSharpIcon from '@mui/icons-material/ShoppingCartCheckoutSharp';
 import * as React from 'react';
-
+import "./Navbar.css";
+import CartWidget from "../CartWidget/CartWidget";
 
  export const Navbar = ()=>{ //Exportamos al archivo App.js
     const [anchorEl, setAnchorEl] = React.useState(null);
@@ -57,9 +57,10 @@ import * as React from 'react';
                 </Box>
             </Grid>
             <Grid item xs={3} md={3}>
-            <Box className="carrito">
-                <ShoppingCartCheckoutSharpIcon/> 4
-            </Box>
+                <Box className="contenedor-carrito-numero">
+                <i><CartWidget /></i>
+                <p >55</p>
+                </Box>                                 
             </Grid>
         </Grid>
 

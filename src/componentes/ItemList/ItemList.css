@@ -1,0 +1,7 @@
+.saludo{
+   display: flex;
+   justify-content: center;
+   margin-top: 2rem;
+   text-transform: uppercase;
+   color: rgb(255, 0, 0);
+}

@@ -1,5 +1,3 @@
-/* Navbar*/
-
 .fondo-nav{
     align-items: center;
 }
@@ -18,13 +16,8 @@
     text-decoration: none;
     color: black;
 }
-.carrito{
-display: flex;
-justify-content: right;
-margin-right: 30px;
-align-items: center;
-color: rgb(120, 7, 182);
-}
+
 .boton-hamburguesa{
     color: rgb(120, 7, 182);
 }
+
