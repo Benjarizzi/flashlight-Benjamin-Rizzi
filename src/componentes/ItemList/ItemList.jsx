@@ -1,14 +1,10 @@
-
-import "./ItemList.css"
+import "./ItemList.css";
 
  const ItemList = ({saludo}) => {
   return (
-    <div >
+    <div>
         <h2 className="saludo">{saludo}</h2>
     </div>
-
-  )
-}
-
-export default ItemList
-
+  );
+};
+export default ItemList;
