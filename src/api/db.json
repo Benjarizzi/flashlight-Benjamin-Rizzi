@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Vape 01",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmsX9TaKhfVUNLpGiUt_ejbyjC4mF339ipag&usqp=CAU",
+      "precio": "6.000",
+      "descripcion": "Vaper descartable, 3000 puffs"
+    },
+    {
+      "id": 2,
+      "title": "Vape 02",
+      "imagen": "https://image.made-in-china.com/155f0j00RomWbOSGLjkf/Vape-Descartable-Air-Glow-PRO-1600-Puffs-Disposable-Electronic-Cigarette-Vape.jpg",
+      "precio": "6.000",
+      "descripcion": "Vaper descartable, 3000 puffs"
+    },
+    {
+      "id": 3,
+      "title": "Vape 03",
+      "imagen": "https://cdn.tiendanegocio.com/gallery/18048/img_18048_1858393fa47.png",
+      "precio": "6.000",
+      "descripcion": "Vaper descartable, 3000 puffs"
+    },
+    {
+      "id": 4,
+      "title": "Vape 04",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTws_m55uYqL-k6fULjC4RKPkLr1kObVTY8JQ&usqp=CAU",
+      "precio": "6.000",
+      "descripcion": "Vaper descartable, 3000 puffs"
+    },
+    {
+      "id": 5,
+      "title": "Vape 05",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS498XFbmknKX9uQm8wOecRrdclNWrnVkK3Sw&usqp=CAU",
+      "precio": "6.000",
+      "descripcion": "Vaper descartable, 3000 puffs"
+    },
+    {
+      "id": 6,
+      "title": "Vape 06",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvrJuKPJd9wyiwBXLPVkvMAb9wc5WhdLMzp-WC_rIrJSzlATUQbImEFxPGOH8rxzQLjoY&usqp=CAU",
+      "precio": "6.000",
+      "descripcion": "Vaper descartable, 3000 puffs"
+    },
+    {
+      "title": "Nuevo Producto",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy9Teh7zwwg-MMhCdlGprZmcdx7pRH-uma9g&usqp=CAU",
+      "precio": " 4.500",
+      "descripcion": "Vaper descartable 5000 puffs",
+      "id": 9
+    },
+    {
+      "title": "Nuevo Producto",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy9Teh7zwwg-MMhCdlGprZmcdx7pRH-uma9g&usqp=CAU",
+      "precio": " 4.500",
+      "descripcion": "Vaper descartable 5000 puffs",
+      "id": 10
+    }
+  ]
+}
