@@ -1,7 +1,8 @@
-import { Box, Button, Grid, Link, Menu, MenuItem, Fade } from "@mui/material";
+import { Box, Button, Grid, Menu, MenuItem, Fade } from "@mui/material";
 import * as React from 'react';
 import "./Navbar.css";
 import CartWidget from "../CartWidget/CartWidget";
+import { Outlet,Link } from "react-router-dom";
 
  export const Navbar = ()=>{ //Exportamos al archivo App.js
     const [anchorEl, setAnchorEl] = React.useState(null);
@@ -13,6 +14,7 @@ import CartWidget from "../CartWidget/CartWidget";
     setAnchorEl(null);
     };
     return(
+        <>
       <Box>
         <Grid container className="fondo-nav">
             <Grid item xs={3} md={3}>
@@ -53,7 +55,7 @@ import CartWidget from "../CartWidget/CartWidget";
             </Grid>
             <Grid  item xs={6} md={6}>
                 <Box className="img-nav">
-                <a href="#"><img src="" alt="LOGO" /></a>
+                <Link to="/"><img src="" alt="LOGO" /></Link>
                 </Box>
             </Grid>
             <Grid item xs={3} md={3}>
@@ -63,7 +65,10 @@ import CartWidget from "../CartWidget/CartWidget";
                 </Box>                                 
             </Grid>
         </Grid>
-
       </Box>
+
+      <Outlet/>
+
+      </>
     );
      }

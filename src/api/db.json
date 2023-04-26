@@ -55,6 +55,13 @@
       "precio": " 4.500",
       "descripcion": "Vaper descartable 5000 puffs",
       "id": 10
+    },
+    {
+      "title": "Nuevo Producto",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy9Teh7zwwg-MMhCdlGprZmcdx7pRH-uma9g&usqp=CAU",
+      "precio": " 4.500",
+      "descripcion": "Vaper descartable 5000 puffs",
+      "id": 11
     }
   ]
 }
