@@ -33,22 +33,22 @@ import { Outlet,Link } from "react-router-dom";
                 onClose={handleClose}
                 TransitionComponent={Fade}
             >
-                <MenuItem onClick={handleClose}>Inicio</MenuItem>
-                <MenuItem onClick={handleClose}>Shop</MenuItem>
-                <MenuItem onClick={handleClose}>Nosotros</MenuItem>
+                <Link to="/"><MenuItem onClick={handleClose}>Inicio</MenuItem></Link>
+                <Link to=""><MenuItem onClick={handleClose}>3000 Puff</MenuItem></Link>
+                <Link to=""><MenuItem onClick={handleClose}>5000 Puff</MenuItem></Link>
             </Menu>
     </Box>
 
         <Box role="presentation" onClick={handleClick} sx={{display:{xs:"none",md:"contents"}}}>
             <Box className="links-nav">
-            <Link underline="hover" color="inherit" href="/">
+            <Link underline="hover" color="inherit" to="/">
                 Inicio
             </Link>
             <Link underline="hover" color="inherit" href="/">
-                Shop
+                3000 Puff
             </Link>
             <Link underline="hover" color="inherit" href="/">
-                Nosotros
+                5000 Puff
             </Link>
             </Box>
         </Box>

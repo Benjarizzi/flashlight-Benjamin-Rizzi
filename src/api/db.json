@@ -43,25 +43,74 @@
       "descripcion": "Vaper descartable, 3000 puffs"
     },
     {
-      "title": "Nuevo Producto",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy9Teh7zwwg-MMhCdlGprZmcdx7pRH-uma9g&usqp=CAU",
-      "precio": " 4.500",
-      "descripcion": "Vaper descartable 5000 puffs",
-      "id": 9
+      "id": 7,
+      "title": "Vape 07",
+      "imagen": "https://cdn.shopify.com/s/files/1/0687/8307/9702/products/IMG_2374-removebg-preview__1_-removebg-preview.png?v=1675178814&width=533",
+      "precio": "12.000",
+      "descripcion": "Vaper descartable, 5000 puffs"
+    },
+    {
+      "id": 8,
+      "title": "Vape 08",
+      "imagen": "https://cdn.shopify.com/s/files/1/1603/1475/products/106261_5Egrapeice_980x.progressive_78c86cc6-c43e-41cb-8973-39bda5aa5529_450x450_crop_center@2x.webp?v=1677204702",
+      "precio": "12.000",
+      "descripcion": "Vaper descartable, 5000 puffs"
+    },
+    {
+      "id": 9,
+      "title": "Vape 09",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpT5g7JgqoZ2omA1e2bTcK3_4BeDGzohCvXA&usqp=CAU",
+      "precio": "12.000",
+      "descripcion": "Vaper descartable, 5000 puffs"
+    },
+    {
+      "id": 10,
+      "title": "Vape 10",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdBfXEf16-xFa0o8x9enx_jYnzm9RtViVMJw&usqp=CAU",
+      "precio": "16.000",
+      "descripcion": "Vaper descartable, 5000 puffs"
+    },
+    {
+      "id": 11,
+      "title": "Vape 11",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTch8EB7zf6_DkfWcvRt3DE8Lsh76lDJ6b_Qg&usqp=CAU",
+      "precio": "10.000",
+      "descripcion": "Vaper descartable, 5000 puffs"
+    },
+    {
+      "id": 12,
+      "title": "Vape 12",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_9Z8fOKL2gVG3yLzPA1VtpKe0KDyawnu9Xg&usqp=CAU",
+      "precio": "11.000",
+      "descripcion": "Vaper descartable, 5000 puffs"
+    },
+    {
+      "id": 13,
+      "title": "Vape 13",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWUdY8yRbYuIivS3UdIkeeIxijOaVmXvcPPw&usqp=CAU",
+      "precio": "16.000",
+      "descripcion": "Vaper descartable, 5000 puffs"
+    },
+    {
+      "id": 14,
+      "title": "Vape 14",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHENtAru5r9i-lPVNGj6tJ9KwYifa6GFA9DjYpqW7XdS8D4LXHQErmFdYQI79SWO0vSlk&usqp=CAU",
+      "precio": "18.000",
+      "descripcion": "Vaper descartable, 5000 puffs"
+    },
+    {
+      "id": 15,
+      "title": "Vape 15",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx33td75e4dVxvhFbrWIwi99JTcCF56NN-_cXc6pprL2B_wK8-1l5B5fmZ2sEJmm3HunM&usqp=CAU",
+      "precio": "17.000",
+      "descripcion": "Vaper descartable, 5000 puffs"
     },
     {
       "title": "Nuevo Producto",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy9Teh7zwwg-MMhCdlGprZmcdx7pRH-uma9g&usqp=CAU",
       "precio": " 4.500",
       "descripcion": "Vaper descartable 5000 puffs",
-      "id": 10
-    },
-    {
-      "title": "Nuevo Producto",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy9Teh7zwwg-MMhCdlGprZmcdx7pRH-uma9g&usqp=CAU",
-      "precio": " 4.500",
-      "descripcion": "Vaper descartable 5000 puffs",
-      "id": 11
+      "id": 16
     }
   ]
 }

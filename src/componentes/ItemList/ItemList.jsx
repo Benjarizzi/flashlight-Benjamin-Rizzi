@@ -16,7 +16,7 @@ const ItemList = ({productos, deleteProduct, updateProduct}) => {
                     <h2>{producto.title}</h2>
                     <p>{producto.descripcion}</p>
                     <p>${producto.precio}</p>
-                    <Link to="/itemDetail/:id">
+                    <Link to= {`/ItemDetail/${producto.id}`}>
                     <button className='boton-tarjetita'>Detalle</button>
                     </Link>
                     <button onClick={() => updateProduct(producto.id, {descripcion: "Me modifique"} ) } className='boton-tarjetita'>Editar</button>
